@@ -1,0 +1,140 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+	background-image:url("/stylesheets/Selenium.jpg");
+	overflow:auto;
+}
+
+
+
+
+
+#btn1{
+	-webkit-transition-duration: 0.7s; /* Safari */
+  transition-duration: 0.7s;
+	margin-top: 20px;
+	display: inline;
+	margin-left: 33%;
+  	margin-right: 33%;
+	width: 40%;
+}
+
+#btnProj{
+	-webkit-transition-duration: 0.7s; /* Safari */
+  	transition-duration: 0.7s;
+	margin-top: 20px;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 40%;
+}
+
+#myName{
+  margin-bottom:30px;
+}
+
+#myPic{
+	display: block;
+	align: center;
+	margin-bottom: 20px;
+	margin-left: 12%;
+	width: 75%;
+	height: 75%;
+}
+
+.img-fluid{
+  max-width: 200px;
+  height: 200px;
+}
+
+
+
+#section2{
+	margin-top: 100px;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-bottom:100px;
+}
+
+i{
+	margin: 2px;
+	margin-top: 15px;
+	margin-left: 2%;
+}
+
+
+a{
+	cursor: pointer;
+}
+
+
+
+#container11{
+	width: 22%;
+	height:100%;
+    float:left; /* add this */
+    margin-top:5%;
+	margin-left:5%;
+	margin-bottom: 5%;
+	border: 1px solid white;
+}
+
+
+
+#container12{
+	width: 60%;
+	height:100%;
+    float:left; /* add this */
+    margin-top:5%;
+	margin-left:7%;
+	margin-bottom: 5%;
+	border: 1px solid white;
+}
+
+
+.year3{
+	 display: inline-block;
+	margin-right:3%;
+}
+.year2{
+	 display: inline-block;
+	margin-right:3%;
+}
+
+.year1{
+	 display: inline-block;
+	
+}
+
+
+
+
+#container13{
+	width: 80%;
+	height:100%;
+    float:left; /* add this */
+    margin-top:5%;
+	margin-left:10%;
+	margin-bottom: 30%;
+	border: 1px solid white;
+
+}
+
+.card{
+	margin-right: 5%;
+}
+
+
+#smallParag{
+	margin-top: 24%;
+	
+}
+
+.footer1{
+   color: white;
+   text-align: center;
+   clear: both;
+   position: relative;
+   height:10%; 
+}
